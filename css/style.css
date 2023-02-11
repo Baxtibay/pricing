@@ -90,6 +90,9 @@ img {
   padding-bottom: 100px;
   flex-grow: 1;
   background-color: #f7f7fe;
+  background-image: url("../img/design-left.svg"),url("../img/design-right.svg") ;
+  background-repeat: no-repeat;
+  background-position: left 0 bottom -300px, right -100px top -100px;
 }
 
 .site-header {

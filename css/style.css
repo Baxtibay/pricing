@@ -194,7 +194,7 @@ img {
   z-index: 5;
 }
 
-.switch-input-annually:checked ~ .switch-control .switch-circle {
+.switch-input-monthly:checked ~ .switch-control .switch-circle {
   margin-left: 24px;
 }
 
